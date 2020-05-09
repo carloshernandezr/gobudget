@@ -1,5 +1,8 @@
 # gobudget
 
+  https://user-images.githubusercontent.com/56489980/81465996-5c1b5c00-918b-11ea-8f6b-e26b4a283b0d.png
+
+
 deploy: 
 ![budget](https://user-images.githubusercontent.com/56489980/81465996-5c1b5c00-918b-11ea-8f6b-e26b4a283b0d.png)
 
@@ -18,7 +21,7 @@ When brought back online:
 
   * Offline entries should be added to tracker.
   
-  https://user-images.githubusercontent.com/56489980/81465996-5c1b5c00-918b-11ea-8f6b-e26b4a283b0d.png
+
   
   
   Put the name of transacction, amount and press + add or subtract button.
