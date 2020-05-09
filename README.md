@@ -4,10 +4,13 @@
 
 
 deploy: 
-![budget](https://user-images.githubusercontent.com/56489980/81465996-5c1b5c00-918b-11ea-8f6b-e26b4a283b0d.png)
+ https://gobudgetx.herokuapp.com/
+ 
 
 repository: 
 https://github.com/carloshernandezr
+
+
 
 The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online.
 
